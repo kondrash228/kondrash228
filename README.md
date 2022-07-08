@@ -1,10 +1,20 @@
-- 🌱 I’m currently learning: C++, Advanced Python
+# Egor Kondrashov
 
-## USAGE OF LANGUAGES
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondrash228&layout=full)
+## I'm begginer python developer
+
+### Languages and Tools
+![Python](https://img.shields.io/badge/-Python-090909??style=flat&logo=python)<br>
+- #### Pydantic
+- #### Flask
+- #### PyTelegramBotApi
+- #### Telethon
+- #### Aiogram
+- #### Asyncio
+- #### TinkoffInvestApi
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kondrash228&show_icons=true&theme=onedark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kondrash228&hide=contribs,prs)
 
 
 ### 📫 Where to find me
