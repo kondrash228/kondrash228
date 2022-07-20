@@ -1,6 +1,7 @@
 # Egor Kondrashov
 
-## I'm begginer python developer and learn c++
+## I'm begginer python developer
+## Learn c++
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909??style=flat&logo=python)<br>
