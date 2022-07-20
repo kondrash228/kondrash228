@@ -1,9 +1,10 @@
 # Egor Kondrashov
 
-## I'm begginer python developer
+## I'm begginer python developer and learn c++
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909??style=flat&logo=python)<br>
+
 - #### Pydantic
 - #### Flask
 - #### PyTelegramBotApi
@@ -14,7 +15,6 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kondrash228&hide=contribs,prs)
 
 
 ### 📫 Where to find me
