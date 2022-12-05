@@ -1,6 +1,6 @@
 # Egor Kondrashov
 
-## I'm begginer python developer
+## I'm python developer
 ## Learn c++
 
 ### Languages and Tools
