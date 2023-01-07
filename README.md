@@ -10,6 +10,8 @@
 - #### Aiogram
 - #### Asyncio
 - #### TinkoffInvestApi
+- #### Numpy
+- #### Pandas
 
 ### 📫 Where to find me
 - Telegram [@ekondrashov](https://telegram.me/ekondrashov)
